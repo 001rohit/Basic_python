@@ -5,7 +5,7 @@ lst = [2,3,4,5,6,"Hellow"]
 print(lst)
 
 # set
-# set is a function  to decalare on one time and use to multiple time , apply different number 
+ # set = collection which is unordered,unindexed . no duplicate values
 def sum_num(num1,num2):
           return num1+num2
 
@@ -20,7 +20,7 @@ sum1 = sum_num(a1,b1)
 print("Sum of Two number is : ",sum1)
 
 # Tuple 
-# Tuple is a 
+# tuple  = collection which is ordered and unchangeable used to group together related data
 tpl=(1,2,3,4,5,6)
 print(tpl) 
 # find index
